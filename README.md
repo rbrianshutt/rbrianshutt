@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [File permissions in Linux](https://github.com/rbrianshutt/url)
-- [Apply filters to SQL queries](https://github.com/rbrianshutt/url)
-- [Algorhythm for file updates in Python](https://github.com/rbrianshutt/url)
+- [File permissions in Linux](https://github.com/rbrianshutt/rbrianshutt/blob/main/File%20permissions%20in%20Linux.pdf)
+- [Apply filters to SQL queries](
+https://github.com/rbrianshutt/rbrianshutt/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
+- [Algorhythm for file updates in Python](https://github.com/rbrianshutt/rbrianshutt/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf)
 
 
 <h2>Certifications</h2>
