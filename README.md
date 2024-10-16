@@ -2,11 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Lab 1](https://github.com/rbrianshutt/url)
-- [Lab 2](https://github.com/rbrianshutt/url)
-- [Lab 3](https://github.com/rbrianshutt/url)
-- [Lab 4](https://github.com/rbrianshutt/url)
-- [Lab 5](https://github.com/rbrianshutt/url)
+- [File permissions in Linux](https://github.com/rbrianshutt/url)
+- [Apply filters to SQL queries](https://github.com/rbrianshutt/url)
+- [Algorhythm for file updates in Python](https://github.com/rbrianshutt/url)
+
 
 <h2>Certifications</h2>
 
