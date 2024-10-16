@@ -12,7 +12,7 @@
 
 - [Google Cybersecurity Certificate](https://github.com/rbrianshutt/url)
 - [Security +, CompTIA](https://github.com/rbrianshutt/url)
-- [IT Fundamentals (ITF+)](https://github.com/rbrianshutt/url)
+- [IT Fundamentals (ITF+)](https://github.com/rbrianshutt/CompTIA IT Fundamentals (ITF+) Certification certificate.pdf)
 - [Scrum Master, Scrum Alliance](https://github.com/rbrianshutt/url)
 
 
