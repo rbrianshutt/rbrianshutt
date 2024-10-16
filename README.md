@@ -11,7 +11,7 @@
 <h2>Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://github.com/rbrianshutt/url)
-- [Security +, CompTIA](https://github.com/rbrianshutt/url)
+- [Security +, CompTIA]([https://github.com/rbrianshutt/url](https://github.com/rbrianshutt/rbrianshutt/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf))
 - [IT Fundamentals (ITF+)](https://github.com/rbrianshutt/rbrianshutt/blob/main/CompTIA%20IT%20Fundamentals%20(ITF%2B)%20Certification%20certificate.pdf)
 - [Scrum Master, Scrum Alliance](https://github.com/rbrianshutt/url)
 
