@@ -1,3 +1,5 @@
+![Local Image](./images/sample-image.png)
+
 <h1>Richard Brian Shutt<br/></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
