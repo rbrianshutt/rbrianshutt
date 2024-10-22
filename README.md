@@ -1,4 +1,4 @@
-![Local Image](./images/sample-image.png)
+![](https://github.com/rbrianshutt/rbrianshutt/blob/main/cybersecurity-grid.jpg)
 
 <h1>Richard Brian Shutt<br/></h1>
 
