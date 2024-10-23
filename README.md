@@ -2,7 +2,7 @@
 
 ![](https://github.com/rbrianshutt/rbrianshutt/blob/main/cybersecurity-grid.jpg)
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 - [Vulnerability Management with Nessus](https://github.com/rbrianshutt/nessus)
 - [Setting Up a Honeypot Virtual Machine](https://github.com/rbrianshutt/honeypot_virtual_machine)
