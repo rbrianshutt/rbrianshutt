@@ -11,7 +11,6 @@
 https://github.com/rbrianshutt/rbrianshutt/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
 - [Algorithm for file updates in Python](https://github.com/rbrianshutt/rbrianshutt/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf)
 
-![](https://github.com/rbrianshutt/rbrianshutt/blob/main/cyber_background.jpg)
 
 <h2>Certifications</h2>
 
