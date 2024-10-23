@@ -4,6 +4,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+-[Vulnerability Management with Nessus](https://github.com/rbrianshutt/nessus)
+-[Setting Up a Honeypot Virtual Machine and Analyzing the Logs](https://github.com/rbrianshutt/honeypot_virtual_machine)
 - [File permissions in Linux](https://github.com/rbrianshutt/rbrianshutt/blob/main/File%20permissions%20in%20Linux.pdf)
 - [Apply filters to SQL queries](
 https://github.com/rbrianshutt/rbrianshutt/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
