@@ -1,5 +1,7 @@
-<h1>Richard Brian Shutt<br/></h1>
 ![](https://github.com/rbrianshutt/rbrianshutt/blob/main/cybersecurity-grid.jpg)
+
+<h1>Richard Brian Shutt<br/></h1>
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
