@@ -5,6 +5,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - [Vulnerability Management with Nessus](https://github.com/rbrianshutt/nessus)
+- [Home Lab Active Directory Using Oracle Virtual Box, Add Users with Powershell Script](https://github.com/rbrianshutt/active_directory_oracle_vm)
 - [Setting Up a Honeypot Virtual Machine](https://github.com/rbrianshutt/honeypot_virtual_machine)
 - [File permissions in Linux](https://github.com/rbrianshutt/rbrianshutt/blob/main/File%20permissions%20in%20Linux.pdf)
 - [Apply filters to SQL queries](
