@@ -16,9 +16,8 @@ https://github.com/rbrianshutt/rbrianshutt/blob/main/Apply%20filters%20to%20SQL%
 <h2>Certifications</h2>
 - [CompTIA Security + CE](https://github.com/rbrianshutt/rbrianshutt/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
 - [Google Cybersecurity Professional Certificate](https://github.com/rbrianshutt/rbrianshutt/blob/main/GoogleCybersecurityCertificate_Badge20241012-7-ff24xl.pdf)
-ication%20certificate.pdf)
 - [Google IT Support Professional Certificate]()
-- [IT Fundamentals (ITF+)](https://github.com/rbrianshutt/rbrianshutt/blob/main/CompTIA%20IT%20Fundamentals%20(ITF%2B)%20Certif
+- [IT Fundamentals (ITF+)](https://github.com/rbrianshutt/rbrianshutt/blob/main/CompTIA%20IT%20Fundamentals%20(ITF%2B)
 - [Scrum Master, Scrum Alliance](https://github.com/rbrianshutt/rbrianshutt/blob/main/Richard%20Brian%20Shutt-ScrumAlliance_CSM_Certificate.pdf)
 
 
