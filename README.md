@@ -4,6 +4,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
+- [Active Directory - Managing Users and Groups](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/README.md)
 - [Vulnerability Management with Nessus](https://github.com/rbrianshutt/nessus)
 - [Home Lab Active Directory Using Oracle Virtual Box, Add Users with Powershell Script](https://github.com/rbrianshutt/active_directory_oracle_vm)
 - [Setting Up a Honeypot Virtual Machine](https://github.com/rbrianshutt/honeypot_virtual_machine)
