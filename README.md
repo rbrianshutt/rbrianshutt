@@ -2,7 +2,7 @@
 
 ![](https://github.com/rbrianshutt/rbrianshutt/blob/main/cybersecurity-grid.jpg)
 
-<h2>Cybersecurity Projects:</h2>
+<h2>Information Technology & Cybersecurity Projects:</h2>
 
 - [Active Directory - Managing Users and Groups](https://github.com/rbrianshutt/ad_managing_users_and_groups/blob/main/README.md)
 - [Vulnerability Management with Nessus](https://github.com/rbrianshutt/nessus)
