@@ -5,7 +5,7 @@
 <h2>Information Technology Projects:</h2>
 
 - [Active Directory](https://github.com/rbrianshutt/active_directory) 
-- [Observing Network Traffic in Azure Virtual Machines](https://github.com/rbrianshutt/network_activities_azure_vm/blob/main/README.md)
+- [Observing Network Traffic Utilizing Wireshark and the Command Line](https://github.com/rbrianshutt/network_activities_azure_vm/blob/main/README.md)
 - [osTicket - Help Desk Ticketing System](https://github.com/rbrianshutt/osticket/edit/main/README.md)  
 
 <h2>Certifications</h2>
