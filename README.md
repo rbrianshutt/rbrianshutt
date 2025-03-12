@@ -4,7 +4,7 @@
 
 <h2>Information Technology Projects:</h2>
 
-- [Active Directory](https://github.com/rbrianshutt/active_directory) 
+- [Active Directory](https://github.com/rbrianshutt/active_directory/blob/main/README.md) 
 - [Observing Network Traffic Utilizing Wireshark and the Command Line](https://github.com/rbrianshutt/network_activities_azure_vm/blob/main/README.md)
 - [osTicket - Help Desk Ticketing System](https://github.com/rbrianshutt/osticket/blob/main/README.md)  
 
