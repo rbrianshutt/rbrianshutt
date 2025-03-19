@@ -7,7 +7,7 @@
 - [Active Directory](https://github.com/rbrianshutt/active_directory/blob/main/README.md) 
 - [Observing Network Traffic Utilizing Wireshark and the Command Line](https://github.com/rbrianshutt/network_activities_azure_vm/blob/main/README.md)
 - [osTicket - Help Desk Ticketing System](https://github.com/rbrianshutt/osticket/blob/main/README.md)
-- [DNS Records and Caching]([https://github.com/rbrianshutt/nessus](https://github.com/rbrianshutt/dns/blob/main/README.md)
+- [DNS Records and Caching](https://github.com/rbrianshutt/dns/blob/main/README.md)
 
 <h2>Certifications</h2>
 
