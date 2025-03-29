@@ -1,4 +1,5 @@
-<h1>Richard Brian Shutt<br/></h1>
+<h1>Richard "Brian" Shutt </h1> <br/>
+
 
 ![](https://github.com/rbrianshutt/rbrianshutt/blob/main/cybersecurity-grid.jpg)
 
@@ -12,10 +13,10 @@
 
 <h2>Certifications</h2>
 
-- [Course Careers Information Technology (expected completion this month)]()
-- [Google IT Support Professional Certificate](https://github.com/rbrianshutt/rbrianshutt/blob/main/Google%20IT%20Support%20Professional%20Certificate.pdf)
-- [CompTIA IT Fundamentals (ITF+)](https://github.com/rbrianshutt/rbrianshutt/blob/main/CompTIA%20IT%20Fundamentals%20(ITF%2B)%20Certification%20certificate.pdf)
 - [CompTIA Security + CE](https://github.com/rbrianshutt/rbrianshutt/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
+- [Google IT Support Professional Certificate](https://github.com/rbrianshutt/rbrianshutt/blob/main/Google%20IT%20Support%20Professional%20Certificate.pdf)
+- [Course Careers Information Technology (expected completion this month)]()
+- [CompTIA IT Fundamentals (ITF+)](https://github.com/rbrianshutt/rbrianshutt/blob/main/CompTIA%20IT%20Fundamentals%20(ITF%2B)%20Certification%20certificate.pdf)
 - [Google Cybersecurity Professional Certificate](https://github.com/rbrianshutt/rbrianshutt/blob/main/GoogleCybersecurityCertificate_Badge20241012-7-ff24xl.pdf)
 - [TryHackMe SOC Level 1 Certificate](https://github.com/rbrianshutt/rbrianshutt/blob/main/THM%20SOC%20Level%201.pdf)
 - [Certified Scrum Master, Scrum Alliance](https://github.com/rbrianshutt/rbrianshutt/blob/main/Richard%20Brian%20Shutt-ScrumAlliance_CSM_Certificate.pdf)
