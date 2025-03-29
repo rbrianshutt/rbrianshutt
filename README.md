@@ -8,6 +8,7 @@
 - [Observing Network Traffic Utilizing Wireshark and the Command Line](https://github.com/rbrianshutt/network_activities_azure_vm/blob/main/README.md)
 - [osTicket - Help Desk Ticketing System](https://github.com/rbrianshutt/osticket/blob/main/README.md)
 - [DNS Records and Caching](https://github.com/rbrianshutt/dns/blob/main/README.md)
+- [Network File Shares and Permissions](https://github.com/rbrianshutt/network_file_shares_and_permissions/blob/main/README.md)
 
 <h2>Certifications</h2>
 
