@@ -15,7 +15,7 @@
 
 - [CompTIA Security + CE](https://github.com/rbrianshutt/rbrianshutt/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
 - [Google IT Support Professional Certificate](https://github.com/rbrianshutt/rbrianshutt/blob/main/Google%20IT%20Support%20Professional%20Certificate.pdf)
-- [Course Careers Information Technology Course](https://github.com/rbrianshutt/rbrianshutt/blob/main/CourseCareersCertificate.jpeg)
+- [Course Careers Information Technology Course](https://github.com/rbrianshutt/rbrianshutt/blob/main/CourseCareersCertificate%20.jpeg)
 - [CompTIA IT Fundamentals (ITF+)](https://github.com/rbrianshutt/rbrianshutt/blob/main/CompTIA%20IT%20Fundamentals%20(ITF%2B)%20Certification%20certificate.pdf)
 - [Google Cybersecurity Professional Certificate](https://github.com/rbrianshutt/rbrianshutt/blob/main/GoogleCybersecurityCertificate_Badge20241012-7-ff24xl.pdf)
 - [TryHackMe SOC Level 1 Certificate](https://github.com/rbrianshutt/rbrianshutt/blob/main/THM%20SOC%20Level%201.pdf)
