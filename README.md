@@ -21,7 +21,7 @@
 - [TryHackMe SOC Level 1 Certificate](https://github.com/rbrianshutt/rbrianshutt/blob/main/THM%20SOC%20Level%201.pdf)
 - [Certified Scrum Master, Scrum Alliance](https://github.com/rbrianshutt/rbrianshutt/blob/main/Richard%20Brian%20Shutt-ScrumAlliance_CSM_Certificate.pdf)
 
-<h2>Check out my CourseCareers Profile with common interview questions answered</h2>
+<h2>Check out my Professional Profile with common interview questions answered</h2>
 
 - [CourseCareers Profile](https://profile.coursecareers.com/it/richard.shutt)
 
