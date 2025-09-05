@@ -3,6 +3,11 @@
 
 ![](https://github.com/rbrianshutt/rbrianshutt/blob/main/cybersecurity-grid.jpg)
 
+<h2>Cybersecurity Projects:</h2>
+
+- [Azure Honeypot & SIEM: Real-Time Cyber Attack Detection](https://github.com/rbrianshutt/azure_honeypot_live_cyber_attack) 
+- [Vulnerability Management with Nessus](https://github.com/rbrianshutt/nessus)
+
 <h2>Information Technology Projects:</h2>
 
 - [Active Directory](https://github.com/rbrianshutt/active_directory/blob/main/README.md) 
